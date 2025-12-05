@@ -83,3 +83,56 @@ Kova aims to become the **#1 AI-powered fashion discovery app** with:
 
 ## 📅 Notes
 This README will update as development continues.
+---
+
+## 📅 DEVELOPMENT ROADMAP
+
+### 🔹 Phase 1 — App Structure (DONE)
+- Project skeleton created
+- Core screens added (Home, Catalog, Chat, Profile)
+- Navigation placeholder created
+- Global style/theme system added
+
+### 🔹 Phase 2 — Core Logic (DONE)
+- Universal cart system
+- Product normalization model
+- AI taste-learning engine stub
+- Filter + search logic
+- Add-to-cart flow
+- Placeholder checkout segmentation
+
+### 🔹 Phase 3 — UI Components (NEXT)
+- Product cards
+- Cart UI
+- Checkout UI buttons
+- Home screen layout
+- AI Mode visuals (neon green)
+
+### 🔹 Phase 4 — Backend Integration
+- Connect real APIs (Amazon, Walmart, ASOS, Nordstrom)
+- Build scrapers (SHEIN, H&M, Uniqlo)
+- Normalize all product data
+- Deploy backend server
+
+### 🔹 Phase 5 — Full Functionality
+- In-chat recommendations from AI
+- Kova recommending full outfits
+- Advanced filter system
+- Save items to profile
+- Search across all stores
+
+### 🔹 Phase 6 — Pre-Launch Polish
+- Error handling
+- Loading states
+- Animations
+- Performance tuning
+
+### 🔹 Phase 7 — App Store Deployment
+- Build Android + iOS binaries
+- Submit to Google Play & App Store
+- Marketing launch and boutique onboarding
+
+---
+
+## 🚀 STATUS
+Kova App V1 is now officially under active development and progressing rapidly.
